@@ -1,3 +1,3 @@
-local keyA = "Shotgun_Al3xIsSocoolnigger1!1"
+local keyA = "Shotgun_al3x_Washere"
 
 return keyA
